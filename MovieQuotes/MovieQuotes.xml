@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quotes>
+  <Quote>
+    <Text>I'm gonna make him an offer he can't refuse.</Text>
+    <Movie>The Godfather</Movie>
+    <IMDB>http://www.imdb.com/title/tt0068646/</IMDB>
+  </Quote>
+  <Quote>
+    <Image>Godfather.jpg</Image>
+    <Text>No Sicilian can refuse any request on his daughter's wedding day.</Text>
+    <Movie>The Godfather</Movie>
+    <IMDB>http://www.imdb.com/title/tt0068646/</IMDB>
+  </Quote>
+  <Quote>
+    <Text>Up there with the best of the best.</Text>
+    <Movie>Top Gun</Movie>
+    <IMDB>http://www.imdb.com/title/tt0092099</IMDB>
+  </Quote>
+  <Quote>
+    <Image>Apollo13.jpg</Image>
+    <Text>We just put Sir Isaac Newton in the driver's seat.</Text>
+    <Movie>Apollo 13</Movie>
+    <IMDB>http://www.imdb.com/title/tt0112384</IMDB>
+  </Quote>
+  <Quote>
+    <Image>Apollo13.jpg</Image>
+    <Text>Houston, we have a problem.</Text>
+    <Movie>Apollo 13</Movie>
+    <IMDB>http://www.imdb.com/title/tt0112384</IMDB>
+  </Quote>
+</Quotes>
